@@ -47,7 +47,10 @@
   <img align="left" alt="Pavan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PavanS27&show_icons=true&theme=dracula" />
 
 </details>
-
+<details>
+  <summary>:zap: Languages Used</summary>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanS27&theme=dark&hide_langs_below%20=%201" />
+</details>
 
 [website]: https://pavans27.github.io/PortfolioV3/
 [youtube]: https://youtube.com/
