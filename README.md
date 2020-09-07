@@ -1,11 +1,11 @@
-### Hi there, I'm Pavan - [website] 👋
+### Hey there, I'm Pavan - [website] 👋
 
 ## I'm a Student, Developer, and Designer!
 
-- 🔭 I am currently learning everything this world can provide!
-- 🌱 Founder and Owner of PV Productions.
+- 😫I am currently learning everything this world can provide!
+- 🏢 Founder and Owner of PV Productions.
 - 🥅 2020 Goals: Become the best version of myself!!
-- ⚡ Fun fact: Nothing Exists in this world.
+- ♑ Fun fact: Nothing Exists in this world.
 
 ### Connect with me:
 
