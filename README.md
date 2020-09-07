@@ -39,7 +39,15 @@
 <br />
 <br />
 
+
 ---
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Pavan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PavanS27&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [website]: https://pavans27.github.io/PortfolioV3/
 [youtube]: https://youtube.com/
