@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Designer!
 
 - 😫I am currently learning everything this world can provide!
-- 🏢 Founder and Owner of PV Productions.
+- 🏢 Co-Founder and Co-Owner of PV Productions.
 - 🥅 2020 Goals: Become the best version of myself!!
 - ♑ Fun fact: Nothing Exists in this world.
 
