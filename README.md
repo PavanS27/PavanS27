@@ -1,7 +1,5 @@
 ### Hi there, I'm Pavan - [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pavans27.github.io/PortfolioV3/)
-
 ## I'm a Student, Developer, and Designer!
 
 - 🔭 --!
